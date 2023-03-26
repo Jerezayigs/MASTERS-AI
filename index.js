@@ -1,5 +1,5 @@
 const sessionName = "dreaded1";
-const donet = "https://github.com/Fortunatusmokaya/DREADED-AI";
+const donet = "https://github.com/Techteslas/MASTERS-AI";
 const owner = ["254701118127"]; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
